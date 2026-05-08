@@ -6,7 +6,7 @@ My research focuses on **value-sensitive design of public sector and healthcare 
 
 ---
 
-## 🔬 Research Themes
+## Research Themes
 
 * Value-sensitive design (VSD) in public sector and healthcare
 * Incorporating VSD techniques into the existing practices of professionals
@@ -15,7 +15,7 @@ My research focuses on **value-sensitive design of public sector and healthcare 
 
 ---
 
-## 📄 Selected Publications
+## Selected Publications
 
 * Van Grondelle, J. et al. (2025). *Practitioner-oriented Conceptualization of the three VSD Investigation Types*
   [https://doi.org/10.1145/3789037.3789045](https://doi.org/10.1145/3789037.3789045)
@@ -52,11 +52,11 @@ My research focuses on **value-sensitive design of public sector and healthcare 
 
 ---
 
-## 🧠 Academic Profile
+## Academic Profile
 
 * 🎓 PhD Researcher — Open University of the Netherlands
 * 🔬 Researcher — HU University of Applied Sciences Utrecht
-* 🧩 Focus: Value sensitive design, AI in public services, human–algorithm collaboration
+* 🧩 Focus: Value Sensitive Design, AI in public services, human–algorithm collaboration
 
 ---
 
