@@ -17,7 +17,7 @@ My research focuses on **value-sensitive design of public sector and healthcare 
 
 ## Selected Publications
 
-* Van Grondelle, J. et al. (2025). *Practitioner-oriented Conceptualization of the three VSD Investigation Types*
+* *Practitioner-oriented Conceptualization of the three VSD Investigation Types* (2025)
   [https://doi.org/10.1145/3789037.3789045](https://doi.org/10.1145/3789037.3789045)
 
 * *Improving Users’ Confidence to Act When Using Advice Algorithms Through Interactive Use of Counterfactuals* (2024)
@@ -60,13 +60,13 @@ My research focuses on **value-sensitive design of public sector and healthcare 
 
 ---
 
-## 🔗 Links
+## Links
 
 * ORCID: [https://orcid.org/0009-0000-3843-1859](https://orcid.org/0009-0000-3843-1859)
 * HU Research Profile: [https://www.hu.nl/onderzoek/onderzoekers/jeroen-van-grondelle](https://www.hu.nl/onderzoek/onderzoekers/jeroen-van-grondelle)
 
 ---
 
-## 🧾 Keywords
+## Keywords
 
 Value Sensitive Design · Human-AI Interaction · Public Sector Innovation · Healthcare Systems · Explainable AI · Digital Government · Algorithmic Decision-Making · Trust & Agency
