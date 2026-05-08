@@ -27,7 +27,7 @@ My research focuses on **value-sensitive design of public sector and healthcare 
   [https://hu.nl/onderzoek/publicaties/the-anatomy-of-a-personal-service](https://hu.nl/onderzoek/publicaties/the-anatomy-of-a-personal-service)
 
 * *Value Sensitive Design of a Preventive Health Check App* (2022)
-  [https://hu.nl/onderzoek/publicaties/value-sensitive-design-preventive-health-check-app](https://hu.nl/onderzoek/publicaties/value-sensitive-design-preventive-health-check-app)
+  [https://www.hu.nl/onderzoek/publicaties/the-value-sensitive-design-of-a-preventive-health-check-app](https://www.hu.nl/onderzoek/publicaties/the-value-sensitive-design-of-a-preventive-health-check-app)
 
 ---
 
