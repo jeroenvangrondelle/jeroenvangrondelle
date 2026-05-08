@@ -8,7 +8,7 @@ My research focuses on **value-sensitive design of public sector and healthcare 
 
 ## 🔬 Research Themes
 
-* Value-sensitive design (VSD) in public sector and healthcare systems
+* Value-sensitive design (VSD) in public sector and healthcare
 * Incorporating VSD techniques into the existing practices of professionals
 * Human–algorithm collaboration in decision-making processes
 
@@ -31,9 +31,7 @@ My research focuses on **value-sensitive design of public sector and healthcare 
 
 ---
 
-## 🧭 Grants & Projects (2020–2027)
-
-### 🏛️ Current & Recent Projects
+## Current & Recent Projects
 
 * **Menselijke Maat in Digitale Publieke Dienstverlening** (2025–2027)
   Regieorgaan SIA — RAAK.PUB15.009
