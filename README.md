@@ -21,7 +21,7 @@ My research focuses on **value-sensitive design of public sector and healthcare 
   [https://doi.org/10.1145/3789037.3789045](https://doi.org/10.1145/3789037.3789045)
 
 * *Improving Users’ Confidence to Act When Using Advice Algorithms Through Interactive Use of Counterfactuals* (2024)
-  [https://doi.org/10.1145/3789037.3789045](https://doi.org/10.1145/3789037.3789045)
+  [[https://doi.org/10.1145/3789037.3789045](https://www.internationalhu.com/research/publications/improving-users-confidence-to-act-when-using-advice-algorithms-through-interactive-use-of-count)](https://www.internationalhu.com/research/publications/improving-users-confidence-to-act-when-using-advice-algorithms-through-interactive-use-of-count)
 
 * *The Anatomy of a Personal Service: The Eight Dimensions of “Personal”* (2023)
   [https://hu.nl/onderzoek/publicaties/the-anatomy-of-a-personal-service](https://hu.nl/onderzoek/publicaties/the-anatomy-of-a-personal-service)
